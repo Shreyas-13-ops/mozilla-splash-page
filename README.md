@@ -7,4 +7,4 @@
 <br>
 <br>
 
-## &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; Thank you for visiting my website :)
+## Thank you for visiting my website :)

@@ -7,4 +7,4 @@
 <br>
 <br>
 
-## Thank you for visiting my website :)
+## Thank you for visiting my repo :)

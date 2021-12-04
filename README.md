@@ -7,5 +7,4 @@
 2. Second section (.further-info) you will find 4 images/logo's which contains links to useful content on Mozilla Web Docs and other pages from Mozilla Firefox.
 3. The final section below, you will find a cute red panda resting on a wooden trunk.
 <br>
-<br>
-## Thank you for visiting my repo :)
+# Thank you for visiting my repo :)
